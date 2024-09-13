@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://ddpr0751jbefr"]
+
+[node name="Button - Join Lobby" type="Button"]
+custom_minimum_size = Vector2(50, 50)
+text = "Lobby Name"

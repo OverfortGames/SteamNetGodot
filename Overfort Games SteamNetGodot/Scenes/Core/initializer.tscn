@@ -1,0 +1,41 @@
+[gd_scene load_steps=9 format=3 uid="uid://cymnpl08k84he"]
+
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Core/SteamConnect.cs" id="1_qp6hu"]
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Core/SceneLoader.cs" id="2_02tn2"]
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Core/LobbyManager.cs" id="2_j2w2b"]
+[ext_resource type="PackedScene" uid="uid://deb250o0fqfbr" path="res://Overfort Games SteamNetGodot/Prefabs/UI/Loading Screen.res" id="3_27645"]
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Gameplay/AudioManager.cs" id="4_843js"]
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Core/SimpleResourceLoader.cs" id="6_edp5x"]
+[ext_resource type="PackedScene" uid="uid://bcese374jnnav" path="res://Overfort Games SteamNetGodot/Scenes/Menu/game_version.res" id="8_uodro"]
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/UI/UINotifications.cs" id="10_m6ety"]
+
+[node name="Initializer" type="Node"]
+
+[node name="Steam Connect" type="Node" parent="."]
+script = ExtResource("1_qp6hu")
+
+[node name="Lobby Manager" type="Node" parent="."]
+script = ExtResource("2_j2w2b")
+
+[node name="Scene Loader" type="Node" parent="."]
+script = ExtResource("2_02tn2")
+showSplashScreenForMilliseconds = 2000
+
+[node name="Audio Manager" type="Node" parent="."]
+script = ExtResource("4_843js")
+
+[node name="Simple Resource Loader" type="Node" parent="."]
+script = ExtResource("6_edp5x")
+
+[node name="Loading Screen" parent="." instance=ExtResource("3_27645")]
+visible = false
+
+[node name="Notifications" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 464.0
+offset_bottom = 607.0
+mouse_filter = 2
+script = ExtResource("10_m6ety")
+
+[node name="game_version" parent="." instance=ExtResource("8_uodro")]

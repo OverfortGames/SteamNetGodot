@@ -1,0 +1,421 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1726246080
+checkbox_pressed_color.tres::StyleBoxFlat::426213164594777998::1719615310::0::1::::<><>::
+default_bus_layout.tres::AudioBusLayout::4902100422653857204::1721811723::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1726176342::0::1::::<><>::
+::res://addons/::1725728921
+::res://addons/godot-jolt/::1723846702
+godot-jolt.gdextension::GDExtension::-1::1723846702::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1723846702::0::1::::<><>::
+THIRDPARTY.txt::TextFile::-1::1723846702::0::1::::<><>::
+::res://addons/godot-jolt/android/::1723846702
+::res://addons/godot-jolt/ios/::1723846702
+::res://addons/godot-jolt/ios/godot-jolt_ios.framework/::1723846702
+::res://addons/godot-jolt/ios/godot-jolt_ios_editor.framework/::1723846702
+::res://addons/godot-jolt/linux/::1723846702
+::res://addons/godot-jolt/macos/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/_CodeSignature/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/Resources/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1723846702
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1723846702
+::res://addons/godot-jolt/windows/::1726243556
+::res://addons/pawn-custom-inspector/::1726164099
+PawnEditorInspectorPlugin.cs::CSharpScript::-1::1726164003::0::1::::<>EditorInspectorPlugin<>::
+PawnEditorPlugin.cs::CSharpScript::-1::1726164099::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1720905670::0::1::::<><>::
+::res://addons/resource-id-dropdown-custom-inspector/::1726164082
+plugin.cfg::TextFile::-1::1725729199::0::1::::<><>::
+ResourceIdDropdownAttribute.cs::CSharpScript::-1::1726164066::0::1::::<><>::
+ResourceIdEditorInspectorPlugin.cs::CSharpScript::-1::1726164029::0::1::::<>EditorInspectorPlugin<>::
+ResourceIdEditorPlugin.cs::CSharpScript::-1::1726164082::0::1::::<>EditorPlugin<>::
+::res://Overfort Games SteamNetGodot/::1726246072
+::res://Overfort Games SteamNetGodot/3D/::1726246080
+::res://Overfort Games SteamNetGodot/3D/AssetsWIP/::1726246080
+Assets.glb::PackedScene::437291140158482894::1726230031::1726246094::1::::<><>::uid://cxd51oiw5uo38::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Wall_Torch_01a_BaseColor.png<>uid://yfava50yf0x5::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Wall_Torch_01a_MetallicRoughness.png<>uid://dyxqq8hov8tnx::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Wall_Torch_01a_Normal.png<>uid://ci1gmdwhjrx0i::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_wood_01_BaseColor.png<>uid://dvusrt5ntgkfs::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_wood_01_Roughness.png<>uid://byu416kh5p5p0::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_wood_01_Normal.png<>uid://efrr4iojgvet::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Candle_Stand_Small_01a_BaseColor.png<>uid://o3mj8jmbswns::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Candle_Stand_Small_01a_MetallicRoughness.png<>uid://c3rqy8g64to4y::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Candle_Stand_Small_01a_Emissive.png<>uid://bf8yjb4yd2rhs::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Candle_Stand_Small_01a_Normal.png<>uid://bf2745gk13k54::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_throwing knife_BaseColor.png<>uid://idkba3dv0bhw::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_throwing knife_Metallic.png-throwing knife_Roughness.png<>uid://w3sbws1fsw8x::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_throwing knife_Normal.png<>uid://btiooq58w6y2e::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Apple_BaseColor.png<>uid://cia5tivygc7to::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Apple_Roughness.png<>uid://dqh4q0p4i6y3f::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Apple_Normal.png<>uid://bbkoapg366ydr::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_coin_BaseColor.png<>uid://pr0v4lsi6feg::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_coin_Metallic.png-coin_Roughness.png<>uid://f5ggfkygh0ox::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_coin_Normal.png<>uid://bdykv1ihl4bjx::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Chandelier_01a_BaseColor.png<>uid://bg8st85pbipda::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Chandelier_01a_MetallicRoughness.png<>uid://bv2jk8gp3gokm::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Chandelier_01a_Emissive.png<>uid://dnpt7l0xdckx1::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_MI_Chandelier_01a_Normal.png<>uid://bx5xd4n2i01x3::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plaster Wall_BaseColor.png<>uid://c652rnjsmaa12::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plaster Wall_Roughness.png<>uid://chrhn6gddfuv7::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plaster Wall_Normal.png<>uid://vrtcv1ckbgac::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_BaseColor.png<>uid://cnjwmo4chp0lk::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Roughness.png<>uid://dpd3ml82s7exi::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Normal.png<>uid://ehl5v24kapps::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_mug_BaseColor.png<>uid://b2wer0ph0g5ae::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_mug_Metallic-mug_Roughness.png<>uid://cv8abil4hamjt::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_mug_Normal.png
+Assets_Apple_BaseColor.png::CompressedTexture2D::3737399662109343858::1726230031::1726246082::1::::<><>::
+Assets_Apple_Normal.png::CompressedTexture2D::8298524896644330485::1726230031::1726246082::1::::<><>::
+Assets_Apple_Roughness.png::CompressedTexture2D::5336208010083926468::1726230031::1726246082::1::::<><>::
+Assets_Plank01_BaseColor.png::CompressedTexture2D::1510218475927617154::1726230031::1726246082::1::::<><>::
+Assets_Plank01_Normal.png::CompressedTexture2D::8220009974223758950::1726230031::1726246082::1::::<><>::
+Assets_Plank01_Roughness.png::CompressedTexture2D::5705233718061956172::1726230031::1726246082::1::::<><>::
+Assets_Plaster Wall_BaseColor.png::CompressedTexture2D::4064098812703054714::1726230031::1726246082::1::::<><>::
+Assets_Plaster Wall_Normal.png::CompressedTexture2D::5299707566574790514::1726230031::1726246082::1::::<><>::
+Assets_Plaster Wall_Roughness.png::CompressedTexture2D::7012297267628743247::1726230031::1726246082::1::::<><>::
+Assets_wood_01_BaseColor.png::CompressedTexture2D::5388411861465991086::1726230031::1726246082::1::::<><>::
+Assets_wood_01_Normal.png::CompressedTexture2D::4114049353549489991::1726230031::1726246082::1::::<><>::
+Assets_wood_01_Roughness.png::CompressedTexture2D::8675639631829442020::1726230031::1726246082::1::::<><>::
+Planks01.tres::StandardMaterial3D::6759957096274275838::1726246080::0::1::::<><>::uid://vrtcv1ckbgac::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_BaseColor.png<>uid://cnjwmo4chp0lk::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Roughness.png<>uid://dpd3ml82s7exi::::res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Normal.png
+Assets_MI_Wall_Torch_01a_Specular.png::CompressedTexture2D::302984800762981105::1726246082::1726246083::1::::<><>::
+Assets_MI_Wall_Torch_01a_Normal.png::CompressedTexture2D::8892276776071861109::1726246083::1726246095::1::::<><>::
+Assets_MI_Wall_Torch_01a_BaseColor.png::CompressedTexture2D::6395246593473457489::1726246084::1726246095::1::::<><>::
+Assets_MI_Wall_Torch_01a_MetallicRoughness.png::CompressedTexture2D::1694891685267395288::1726246084::1726246095::1::::<><>::
+Assets_MI_Candle_Stand_Small_01a_Emissive.png::CompressedTexture2D::6774239485995503090::1726246085::1726246095::1::::<><>::
+Assets_MI_Candle_Stand_Small_01a_Specular.png::CompressedTexture2D::8239715915889249313::1726246085::1726246085::1::::<><>::
+Assets_MI_Candle_Stand_Small_01a_Normal.png::CompressedTexture2D::2806962746156993292::1726246086::1726246095::1::::<><>::
+Assets_MI_Candle_Stand_Small_01a_BaseColor.png::CompressedTexture2D::292141346879814255::1726246086::1726246095::1::::<><>::
+Assets_MI_Candle_Stand_Small_01a_MetallicRoughness.png::CompressedTexture2D::1041192811825558020::1726246087::1726246095::1::::<><>::
+Assets_throwing knife_Normal.png::CompressedTexture2D::1603053013323006833::1726246087::1726246095::1::::<><>::
+Assets_throwing knife_BaseColor.png::CompressedTexture2D::2795099418494188673::1726246088::1726246095::1::::<><>::
+Assets_throwing knife_Metallic.png-throwing knife_Roughness.png::CompressedTexture2D::568312881507884928::1726246088::1726246095::1::::<><>::
+Assets_coin_Normal.png::CompressedTexture2D::413250846695550959::1726246088::1726246095::1::::<><>::
+Assets_coin_BaseColor.png::CompressedTexture2D::2478104141204404927::1726246088::1726246095::1::::<><>::
+Assets_coin_Metallic.png-coin_Roughness.png::CompressedTexture2D::1089484043880421786::1726246088::1726246095::1::::<><>::
+Assets_MI_Chandelier_01a_Emissive.png::CompressedTexture2D::3916690653583924584::1726246088::1726246095::1::::<><>::
+Assets_MI_Chandelier_01a_Specular.png::CompressedTexture2D::2015192287388272295::1726246089::1726246089::1::::<><>::
+Assets_MI_Chandelier_01a_Normal.png::CompressedTexture2D::8103894070378217008::1726246089::1726246095::1::::<><>::
+Assets_MI_Chandelier_01a_BaseColor.png::CompressedTexture2D::2647178330603728325::1726246090::1726246095::1::::<><>::
+Assets_MI_Chandelier_01a_MetallicRoughness.png::CompressedTexture2D::2876806827657144146::1726246091::1726246095::1::::<><>::
+Assets_mug_Normal.png::CompressedTexture2D::6314933773969405253::1726246092::1726246095::1::::<><>::
+Assets_mug_BaseColor.png::CompressedTexture2D::295928625599206732::1726246092::1726246095::1::::<><>::
+Assets_mug_Metallic-mug_Roughness.png::CompressedTexture2D::4327210335584286300::1726246093::1726246095::1::::<><>::
+::res://Overfort Games SteamNetGodot/Audio/::1726243045
+along-the-wayside-medieval-folk-music-128697.mp3::AudioStreamMP3::5207143606231758586::1720996978::1726242632::1::::<><>::
+calm-fantasy-harp-and-strings-197736.mp3::AudioStreamMP3::3990877772180139575::1720996978::1726242632::1::::<><>::
+Click.mp3::AudioStreamMP3::3537607481788280758::1717576108::1726242632::1::::<><>::
+License audio.txt::TextFile::-1::1726243045::0::1::::<><>::
+medieval-background-196571.mp3::AudioStreamMP3::588316023616173644::1720996978::1726242632::1::::<><>::
+menu-selection-102220.mp3::AudioStreamMP3::9057623954255084466::1720998716::1726242632::1::::<><>::
+::res://Overfort Games SteamNetGodot/Fonts/::1726243131
+Asul-Bold.ttf::FontFile::8526540249776619912::1721775985::1726243131::1::::<><>::
+Asul-Regular.ttf::FontFile::8787670041919877286::1721775985::1726243131::1::::<><>::
+License Asul-Bold Asus-Regular.txt::TextFile::-1::1726243130::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Materials/::1726246064
+grass.res::StandardMaterial3D::5357475179773752270::1725813027::0::1::::<><>::uid://iu7heqw6jhx4::::res://Textures/Grass01_BaseColor.png
+gray grid.res::StandardMaterial3D::8684418256566954542::1717699748::0::1::::<><>::uid://ccybykhjcqym4::::res://Textures/graygrid01.png
+orange grid.res::StandardMaterial3D::5911583348809056267::1717699748::0::1::::<><>::uid://wtb4kyopdp0::::res://Textures/orangegrid01.png
+wood01.res::StandardMaterial3D::348138911077714526::1717699748::0::1::::<><>::uid://bpg4lgmtwiolv::::res://Textures/wood01_BaseColor.png<>uid://bc4gohmfvnxbj::::res://Textures/wood01_Normal.png
+::res://Overfort Games SteamNetGodot/Prefabs/::1726241215
+::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/::1726246080
+apple.res::PackedScene::3369352144345404363::1725820478::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/Pawn.cs<>uid://btiooq58w6y2e::::res://Trash/AssetsWIP/Assets_Apple_BaseColor.png<>uid://cia5tivygc7to::::res://Trash/AssetsWIP/Assets_Apple_Roughness.png<>uid://dqh4q0p4i6y3f::::res://Trash/AssetsWIP/Assets_Apple_Normal.png<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/NetworkTransformSyncronizer.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/Pickable.cs
+fp_playerC#.tscn::PackedScene::2797033040530458439::1725200776::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Gameplay/PlayerMovement.cs
+Player Pawn.res::PackedScene::7243554135325957021::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/Pawn.cs<>uid://bf35ywycmw0ul::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/fp_playerC#.tscn<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/WorldInteractor.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/ScaleOnRMS.cs<>uid://dxg2v22he5x8y::::res://Fonts/Asul-Regular.ttf<>res://Overfort Games SteamNetGodot/Scripts/UI/UILabel3DSteamName.cs<>uid://d3oedwojqjjlk::::res://Overfort Games SteamNetGodot/Prefabs/UI/crosshair.tscn<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/ShowHideWithVOIP.cs<>uid://jdlvxbh7b8nu::::res://Sprites/pointer.png<>res://Overfort Games SteamNetGodot/Scripts/UI/UILabelWorldInteractorHover.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/NetworkTransformSyncronizer.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/HideIfHasOwnership.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/Mutable.cs<>uid://bkyc8jqriemo2::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/VOIP.res
+stool.res::PackedScene::5296418514804035936::1725981567::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/Pawn.cs<>uid://ci1gmdwhjrx0i::::res://Trash/AssetsWIP/Assets_wood_01_BaseColor.png<>uid://dvusrt5ntgkfs::::res://Trash/AssetsWIP/Assets_wood_01_Roughness.png<>uid://byu416kh5p5p0::::res://Trash/AssetsWIP/Assets_wood_01_Normal.png<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/NetworkTransformSyncronizer.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/Pickable.cs
+table.res::PackedScene::1374306558782491015::1725808830::0::1::::<><>::uid://ci1gmdwhjrx0i::::res://Trash/AssetsWIP/Assets_wood_01_BaseColor.png<>uid://dvusrt5ntgkfs::::res://Trash/AssetsWIP/Assets_wood_01_Roughness.png<>uid://byu416kh5p5p0::::res://Trash/AssetsWIP/Assets_wood_01_Normal.png<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs
+VOIP.res::PackedScene::3138035049565540455::1724770259::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Gameplay/VOIP.cs
+::res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/::1726243681
+RS AudioSoundtrack1.res::Resource::3409712100264155697::1726243583::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://cggm5n7ltey0y::::res://Overfort Games SteamNetGodot/Audio/along-the-wayside-medieval-folk-music-128697.mp3<>uid://bw4hf57lwg272::::res://Overfort Games SteamNetGodot/Audio/calm-fantasy-harp-and-strings-197736.mp3<>uid://im8qjw3xqr53::::res://Overfort Games SteamNetGodot/Audio/medieval-background-196571.mp3
+RS AudioUIClick.res::Resource::1661230251861151759::1726243583::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://bqnv44nu8dimw::::res://Overfort Games SteamNetGodot/Audio/Click.mp3
+RS Confirmation Prompt.res::Resource::1549812971137794668::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://bcd7dmwyg1f3k::::res://Overfort Games SteamNetGodot/Scenes/Menu/confirmation_prompt.res
+RS CreateServer.res::Resource::9099636133791764512::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://0x88twypaq8w::::res://Overfort Games SteamNetGodot/Scenes/Menu/create_taverna.res
+RS Game Menu Players.res::Resource::2528686815030945550::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://eth1td46xxx4::::res://Overfort Games SteamNetGodot/Scenes/Menu/game_menu_players.res
+RS Game Menu.res::Resource::2181457097573213431::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://c77vupaq3s2gv::::res://Overfort Games SteamNetGodot/Scenes/Menu/game_menu.res
+RS Game Scene.res::Resource::987111281461622381::1725733633::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://c17qcwaq6bosq::::res://Overfort Games SteamNetGodot/Scenes/Game/multiplayer_demo.tscn
+RS Home.res::Resource::2564527322090704065::1725733947::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://bvp3t46wdw66o::::res://Overfort Games SteamNetGodot/Scenes/Menu/home.res
+RS JoinServer.res::Resource::1577146413260264869::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://kcq04pxg7lqg::::res://Overfort Games SteamNetGodot/Scenes/Menu/join_taverna.res
+RS Notification Popup.res::Resource::5502451048681969770::1725733644::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://dvreoddrc8rw2::::res://Overfort Games SteamNetGodot/Prefabs/UI/Button - Notification.res
+RS Options.res::Resource::6757230210108329844::1725733647::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://dbae0xt3k6dax::::res://Overfort Games SteamNetGodot/Scenes/Menu/options.res
+RS Pawn apple.res::Resource::4113588100328876601::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://boae0cuvdfupf::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/apple.res
+RS Pawn Player.res::Resource::115987584435597511::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://dbg3jpy11a4jx::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/Player Pawn.res
+RS Pawn stool.res::Resource::7447803246560918371::1726243393::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://chpvieop4k5ku::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/stool.res
+RS SplashScreen.res::Resource::6413030069215826528::1726243681::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs<>uid://xo5gqvkanbil::::res://Overfort Games SteamNetGodot/Scenes/Menu/splash_screen.tscn
+::res://Overfort Games SteamNetGodot/Prefabs/UI/::1726246060
+Button - Close Options.res::PackedScene::1644170069950733710::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseOptions.cs
+Button - Go Home.res::PackedScene::4807378705175802230::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonGoHome.cs
+Button - Notification.res::PackedScene::8668590221363589843::1726241215::0::1::::<><>::
+button_join_lobby.tscn::PackedScene::7401872810313678499::1726229104::0::1::::<><>::
+crosshair.tscn::PackedScene::9153700364425457036::1726246060::0::1::::<><>::uid://jdlvxbh7b8nu::::res://Overfort Games SteamNetGodot/Sprites/pointer.png
+HBoxContainer - Player Entry.res::PackedScene::2099920243139534691::1726241215::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIGameMenuPlayerEntry.cs
+Loading Screen.res::PackedScene::7443776071861551287::1726246060::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UILoadingScreen.cs<>uid://dlww0x7lfxcno::::res://Sprites/OG_Icon_white_RGB.png
+SteamNetGodot.theme::Theme::5858900248048194382::1726244926::0::1::::<><>::uid://dxg2v22he5x8y::::res://Overfort Games SteamNetGodot/Fonts/Asul-Regular.ttf<>uid://dtqk4wh2ds2fs::::res://Overfort Games SteamNetGodot/Fonts/Asul-Bold.ttf
+::res://Overfort Games SteamNetGodot/Scenes/::1721775705
+::res://Overfort Games SteamNetGodot/Scenes/Core/::1726245932
+initializer.tscn::PackedScene::6482962873453259246::1726245932::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/Core/SteamConnect.cs<>res://Overfort Games SteamNetGodot/Scripts/Core/SceneLoader.cs<>res://Overfort Games SteamNetGodot/Scripts/Core/LobbyManager.cs<>uid://deb250o0fqfbr::::res://Overfort Games SteamNetGodot/Prefabs/UI/Loading Screen.res<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/AudioManager.cs<>res://Overfort Games SteamNetGodot/Scripts/Core/SimpleResourceLoader.cs<>uid://bcese374jnnav::::res://Overfort Games SteamNetGodot/Scenes/Menu/game_version.res<>res://Overfort Games SteamNetGodot/Scripts/UI/UINotifications.cs
+::res://Overfort Games SteamNetGodot/Scenes/Game/::1726246064
+multiplayer_demo.tscn::PackedScene::6664787589859182628::1726246064::0::1::::<><>::uid://ccybykhjcqym4::::res://Overfort Games SteamNetGodot/Textures/Grid/graygrid01.png<>uid://boae0cuvdfupf::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/apple.res<>res://Overfort Games SteamNetGodot/Scripts/Core/NetworkManager.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/ToggleGameMenu.cs<>uid://chpvieop4k5ku::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/stool.res<>uid://ttyvmiekpi7p::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/table.res
+::res://Overfort Games SteamNetGodot/Scenes/Menu/::1726246060
+confirmation_prompt.res::PackedScene::2534940470746982406::1726242297::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIConfirmationPrompt.cs<>uid://bkyc8jqriemo2::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/VOIP.res
+create_taverna.res::PackedScene::1804265404294204072::1726242297::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIOptionButtonMaxPlayer.cs<>uid://caqy3bufqxjdu::::res://Overfort Games SteamNetGodot/Prefabs/UI/Button - Go Home.res<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCreateLobbyAndEnterGame.cs
+game_menu.res::PackedScene::7086256013274720157::1726243686::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenOptions.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenGameMenuPlayers.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonDisconnect.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseGameMenu.cs
+game_menu_players.res::PackedScene::320451005408208911::1724596879::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIGameMenuPlayers.cs<>uid://46hm525in1pv::::res://Overfort Games SteamNetGodot/Prefabs/UI/HBoxContainer - Player Entry.res<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseGameMenuPlayers.cs
+game_version.res::PackedScene::2536157452448546529::1726243797::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UILabelGameVersion.cs
+home.res::PackedScene::3893087644354912776::1726246059::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCreateLobby.cs<>uid://cpqdh4ey7847s::::res://Overfort Games SteamNetGodot/Prefabs/UI/SteamNetGodot.theme<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonFindLobbies.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenOptions.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonQuit.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UILabelSteamConnection.cs<>res://Overfort Games SteamNetGodot/Scripts/Gameplay/PlaySountrackOnStartup.cs<>uid://ccg5axlfekgvs::::res://Sprites/github-mark-white.png<>uid://dtqk4wh2ds2fs::::res://Overfort Games SteamNetGodot/Fonts/Asul-Bold.ttf
+join_taverna.res::PackedScene::707034856023853394::1726243686::0::1::::<><>::res://Overfort Games SteamNetGodot/Scripts/UI/UILobbyDescriptionPanel.cs<>uid://dtqk4wh2ds2fs::::res://Overfort Games SteamNetGodot/Fonts/Asul-Bold.ttf<>uid://ddpr0751jbefr::::res://Overfort Games SteamNetGodot/Prefabs/UI/button_join_lobby.tscn<>res://Overfort Games SteamNetGodot/Scripts/UI/UIFindLobbies.cs<>uid://gcpwy3x51e4u::::res://checkbox_pressed_color.tres<>uid://caqy3bufqxjdu::::res://Overfort Games SteamNetGodot/Prefabs/UI/Button - Go Home.res
+options.res::PackedScene::7229739646211138171::1726242297::0::1::::<><>::uid://bkyc8jqriemo2::::res://Overfort Games SteamNetGodot/Prefabs/Gameplay/VOIP.res<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonToggleTestVOIP.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UIProgressBarVOIPRMS.cs<>res://Overfort Games SteamNetGodot/Scripts/UI/UISliderChangeBusVolume.cs<>uid://xopign2ujr6e::::res://Overfort Games SteamNetGodot/Prefabs/UI/Button - Close Options.res<>res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenBanList.cs
+splash_screen.tscn::PackedScene::1645077790047366663::1726246060::0::1::::<><>::uid://dlww0x7lfxcno::::res://Overfort Games SteamNetGodot/Sprites/OG_Icon_white_RGB.png
+::res://Overfort Games SteamNetGodot/Scripts/::1726241215
+::res://Overfort Games SteamNetGodot/Scripts/Core/::1726243670
+BaseClient.cs::CSharpScript::-1::1726044166::0::1::::<><>::
+BaseServer.cs::CSharpScript::-1::1726043471::0::1::::<><>::
+GameClient.cs::CSharpScript::-1::1725377758::0::1::::<><>::
+GamePackets.cs::CSharpScript::-1::1726163977::0::1::::<><>::
+GameServer.cs::CSharpScript::-1::1726138858::0::1::::<><>::
+GameState.cs::CSharpScript::-1::1726172639::0::1::::<><>::
+LobbyManager.cs::CSharpScript::-1::1726241216::0::1::::<>Node<>::
+NetworkManager.cs::CSharpScript::-1::1726218463::0::1::::<>Node<>::
+ObjectState.cs::CSharpScript::-1::1726162855::0::1::::<><>::
+Pawn.cs::CSharpScript::-1::1726165094::0::1::::<>Node3D<>::
+Processor.cs::CSharpScript::-1::1726162913::0::1::::<><>::
+ResourceId.cs::CSharpScript::-1::1726241216::0::1::::<><>::
+ResourceLinker.cs::CSharpScript::-1::1726162951::0::1::::<>Resource<>::
+SceneLoader.cs::CSharpScript::-1::1726162982::0::1::::<>Node<>::
+SimpleResourceLoader.cs::CSharpScript::-1::1726243670::0::1::::<>Node<>::
+SimpleSaveSystem.cs::CSharpScript::-1::1726163019::0::1::::<><>::
+SteamConnect.cs::CSharpScript::-1::1726242295::0::1::::<>Node<>::
+::res://Overfort Games SteamNetGodot/Scripts/Gameplay/::1726242244
+AudioManager.cs::CSharpScript::-1::1726163100::0::1::::<>Node<>::
+GameVersion.cs::CSharpScript::-1::1726242244::0::1::::<><>::
+HideIfHasOwnership.cs::CSharpScript::-1::1726163128::0::1::::<>Node<>::
+InputSettings.cs::CSharpScript::-1::1726163140::0::1::::<><>::
+Interactable.cs::CSharpScript::-1::1726163149::0::1::::<>Node<>::
+InteractableCollider.cs::CSharpScript::-1::1726171572::0::1::::<>Node<>::
+Mutable.cs::CSharpScript::-1::1726221130::0::1::::<>Node<>::
+NameChecker.cs::CSharpScript::-1::1726163175::0::1::::<><>::
+NetworkTransformSyncronizer.cs::CSharpScript::-1::1726163202::0::1::::<>Node<>::
+Pickable.cs::CSharpScript::-1::1726170259::0::1::::<>Node<>::
+PlayerMovement.cs::CSharpScript::-1::1726173288::0::1::::<>CharacterBody3D<>::
+PlaySountrackOnStartup.cs::CSharpScript::-1::1726163283::0::1::::<>Node<>::
+ScaleOnRMS.cs::CSharpScript::-1::1726163300::0::1::::<>Node3D<>::
+ShowHideWithVOIP.cs::CSharpScript::-1::1726163317::0::1::::<>Node<>::
+ToggleGameMenu.cs::CSharpScript::-1::1726163330::0::1::::<>Node<>::
+VOIP.cs::CSharpScript::-1::1726220706::0::1::::<>Node<>::
+VOIPSettings.cs::CSharpScript::-1::1726171268::0::1::::<><>::
+WorldInteractor.cs::CSharpScript::-1::1726241216::0::1::::<>Node3D<>::
+::res://Overfort Games SteamNetGodot/Scripts/UI/::1726241216
+UIButton.cs::CSharpScript::-1::1726163393::0::1::::<>Button<>::
+UIButtonCloseGameMenu.cs::CSharpScript::-1::1726163410::0::1::::<>Button<>::
+UIButtonCloseGameMenuPlayers.cs::CSharpScript::-1::1726163435::0::1::::<>Button<>::
+UIButtonCloseOptions.cs::CSharpScript::-1::1726163449::0::1::::<>Button<>::
+UIButtonCreateLobby.cs::CSharpScript::-1::1726241216::0::1::::<>Button<>::
+UIButtonCreateLobbyAndEnterGame.cs::CSharpScript::-1::1726163490::0::1::::<>Button<>::
+UIButtonDisconnect.cs::CSharpScript::-1::1726163505::0::1::::<>Button<>::
+UIButtonFindLobbies.cs::CSharpScript::-1::1726241216::0::1::::<>Button<>::
+UIButtonGoHome.cs::CSharpScript::-1::1726163542::0::1::::<>Button<>::
+UIButtonOpenBanList.cs::CSharpScript::-1::1726163551::0::1::::<>Button<>::
+UIButtonOpenGameMenuPlayers.cs::CSharpScript::-1::1726163562::0::1::::<>Button<>::
+UIButtonOpenOptions.cs::CSharpScript::-1::1726163571::0::1::::<>Button<>::
+UIButtonQuit.cs::CSharpScript::-1::1726163580::0::1::::<>Button<>::
+UIButtonToggleTestVOIP.cs::CSharpScript::-1::1726172568::0::1::::<>Button<>::
+UIConfirmationPrompt.cs::CSharpScript::-1::1726163616::0::1::::<>Node<>::
+UIFindLobbies.cs::CSharpScript::-1::1725188050::0::1::::<>Control<>::
+UIGameMenuPlayerEntry.cs::CSharpScript::-1::1726163643::0::1::::<>Control<>::
+UIGameMenuPlayers.cs::CSharpScript::-1::1726163662::0::1::::<>Node<>::
+UILabel3DSteamName.cs::CSharpScript::-1::1726163698::0::1::::<>Label3D<>::
+UILabelGameVersion.cs::CSharpScript::-1::1726163716::0::1::::<>Label<>::
+UILabelSteamConnection.cs::CSharpScript::-1::1726163732::0::1::::<>Label<>::
+UILabelToggleSpeech.cs::CSharpScript::-1::1726163748::0::1::::<>Label<>::
+UILabelWorldInteractorHover.cs::CSharpScript::-1::1726163762::0::1::::<>Label<>::
+UILoadingScreen.cs::CSharpScript::-1::1726163786::0::1::::<>Control<>::
+UILobbyDescriptionPanel.cs::CSharpScript::-1::1726169427::0::1::::<>Node<>::
+UINotifications.cs::CSharpScript::-1::1726163804::0::1::::<>Node<>::
+UIOptionButtonMaxPlayer.cs::CSharpScript::-1::1726163826::0::1::::<>OptionButton<>::
+UIProgressBarVOIPRMS.cs::CSharpScript::-1::1726163839::0::1::::<>ProgressBar<>::
+UISliderChangeBusVolume.cs::CSharpScript::-1::1726163859::0::1::::<>HSlider<>::
+::res://Overfort Games SteamNetGodot/Scripts/Utilities/::1726163905
+GodotCollectionsUtilities.cs::CSharpScript::-1::1726163872::0::1::::<><>::
+NodeUtilities.cs::CSharpScript::-1::1726163891::0::1::::<><>::
+UIUtilities.cs::CSharpScript::-1::1726163905::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Sprites/::1726246062
+github-mark-white.png::CompressedTexture2D::4927428056232444516::1726244319::1726246060::1::::<><>::
+OG_Icon_white_RGB.png::CompressedTexture2D::7978137318353631800::1719523987::1726246060::1::::<><>::
+pointer.png::CompressedTexture2D::638599324539651066::1719790210::1726246060::1::::<><>::
+splash_screen.png::CompressedTexture2D::3653443219511376176::1719527104::1726246062::1::::<><>::
+::res://Overfort Games SteamNetGodot/Textures/::1726241216
+::res://Overfort Games SteamNetGodot/Textures/Grid/::1726246064
+graygrid01.png::CompressedTexture2D::4962868233265566357::1726241216::1726246064::1::::<><>::
+License.txt::TextFile::-1::1726241216::0::1::::<><>::
+orangegrid01.png::CompressedTexture2D::46573258980733563::1726241216::1726246064::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/::1726242859
+editor_theme.tres::Theme::2543409764832985853::1723996725::0::1::::<><>::
+License editor_theme.txt::TextFile::-1::1726242859::0::1::::<><>::
+License Facepunch.Steamworks.txt::TextFile::-1::1726242859::0::1::::<><>::
+License LiteNetLib.txt::TextFile::-1::1726242859::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/::1718616201
+SteamApps.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamClient.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamFriends.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamInput.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamInventory.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamMatchmaking.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamMatchmakingServers.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamMusic.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamNetworking.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamNetworkingSockets.cs::CSharpScript::-1::1718616201::0::1::::<><>::
+SteamNetworkingUtils.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamParental.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamParties.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamRemotePlay.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamRemoteStorage.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamScreenshots.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamServer.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamServerStats.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamUgc.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamUser.cs::CSharpScript::-1::1717837450::0::1::::<><>::
+SteamUserStats.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamUtils.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamVideo.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Callbacks/::1717750046
+CallResult.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ICallbackData.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Classes/::1717750046
+AuthTicket.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Dispatch.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamApi.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamGameServer.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamInternal.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Enum/::1717750046
+LeaderboardDisplay.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+LeaderboardSort.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SendType.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Generated/::1717754366
+CustomEnums.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamCallbacks.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamConstants.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamEnums.cs::CSharpScript::-1::1717754366::0::1::::<><>::
+SteamStructFunctions.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamStructs.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamTypes.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Generated/Interfaces/::1717750046
+ISteamAppList.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamApps.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamClient.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamController.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamFriends.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamGameSearch.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamGameServer.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamGameServerStats.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamHTMLSurface.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamHTTP.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamInput.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamInventory.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmaking.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmakingPingResponse.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmakingPlayersResponse.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmakingRulesResponse.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmakingServerListResponse.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMatchmakingServers.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMusic.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamMusicRemote.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamNetworking.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamNetworkingFakeUDPPort.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamNetworkingMessages.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamNetworkingSockets.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamNetworkingUtils.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamParentalSettings.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamParties.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamRemotePlay.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamRemoteStorage.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamScreenshots.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamUGC.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamUser.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamUserStats.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamUtils.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISteamVideo.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Networking/::1725978050
+BroadcastBufferManager.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Connection.cs::CSharpScript::-1::1725177881::0::1::::<><>::
+ConnectionInfo.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ConnectionLaneStatus.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ConnectionManager.cs::CSharpScript::-1::1725140443::0::1::::<><>::
+ConnectionStatus.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Delegates.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+IConnectionManager.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ISocketManager.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetAddress.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetErrorMessage.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetIdentity.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetKeyValue.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetMsg.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NetPingLocation.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Socket.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SocketManager.cs::CSharpScript::-1::1725978050::0::1::::<><>::
+SteamDatagramRelayAuthTicket.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/ServerList/::1717750046
+Base.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Favourites.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Friends.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+History.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Internet.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+IpList.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+LocalNetwork.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Structs/::1717750046
+Achievement.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+AppId.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Clan.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Controller.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+DepotId.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+DlcInformation.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+DownloadProgress.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+DurationControl.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+FileDetails.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Friend.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+GameId.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Image.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+InventoryDef.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+InventoryItem.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+InventoryPurchaseResult.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+InventoryRecipe.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+InventoryResult.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Leaderboard.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+LeaderboardEntry.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+LeaderboardUpdate.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Lobby.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+LobbyQuery.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+MatchMakingKeyValuePair.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+NumericalFilter.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+OutgoingPacket.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+P2Packet.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+PartyBeacon.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+RemotePlaySession.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Screenshot.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Server.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+ServerInit.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Stat.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamId.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamIpAddress.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamParamStringArray.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Ugc.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UgcAdditionalPreview.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UgcEditor.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UgcItem.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UgcQuery.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UgcResultPage.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+UserItemVote.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/Facepunch.Steamworks/Utility/::1717750046
+Epoch.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Helpers.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Platform.cs::CSharpScript::-1::1707041375::0::1::::<><>::
+SourceServerQuery.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+SteamInterface.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Utf8String.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+Utility.cs::CSharpScript::-1::1686296947::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/LiteNetLib/::1718094553
+BaseChannel.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+ConnectionRequest.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+INetEventListener.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+InternalPackets.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NativeSocket.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NatPunchModule.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetConstants.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetDebug.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetManager.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetManager.HashSet.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetManager.PacketPool.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetManager.Socket.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetPacket.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetPeer.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetStatistics.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NetUtils.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+package.json::JSON::-1::1704866548::0::1::::<><>::
+PausedSocketFix.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+PooledPacket.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+ReliableChannel.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+SequencedChannel.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+Trimming.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/LiteNetLib/Layers/::1718094553
+Crc32cLayer.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+PacketLayerBase.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+XorEncryptLayer.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+::res://Overfort Games SteamNetGodot/Third Party/LiteNetLib/Utils/::1726164186
+CRC32C.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+FastBitConverter.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+INetSerializable.cs::CSharpScript::-1::1721557392::0::1::::<><>::
+NetDataReader.cs::CSharpScript::-1::1725116188::0::1::::<><>::
+NetDataWriter.cs::CSharpScript::-1::1725063745::0::1::::<><>::
+NetPacketProcessor.cs::CSharpScript::-1::1726164186::0::1::::<><>::
+NetSerializer.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NtpPacket.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+NtpRequest.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+Preserve.cs::CSharpScript::-1::1704866548::0::1::::<><>::
+::res://Trash/::1726246080

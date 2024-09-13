@@ -1,0 +1,3 @@
+MIT
+
+https://github.com/RevenantX/LiteNetLib?tab=MIT-1-ov-file

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bqnv44nu8dimw"
+path="res://.godot/imported/Click.mp3-21671a0ad41dbbc302d69e65e4b06863.mp3str"
+
+[deps]
+
+source_file="res://Overfort Games SteamNetGodot/Audio/Click.mp3"
+dest_files=["res://.godot/imported/Click.mp3-21671a0ad41dbbc302d69e65e4b06863.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,65 @@
+res://Overfort Games SteamNetGodot/Scenes/Core/initializer.tscn
+res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS AudioUIClick.res
+res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS AudioSoundtrack1.res
+res://Overfort Games SteamNetGodot/Scenes/Menu/splash_screen.tscn
+res://Overfort Games SteamNetGodot/Scenes/Menu/home.res
+res://Overfort Games SteamNetGodot/Scenes/Menu/join_taverna.res
+res://Overfort Games SteamNetGodot/Scenes/Menu/game_menu.res
+res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS SplashScreen.res
+res://Overfort Games SteamNetGodot/Scripts/Core/NetworkManager.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILabelToggleSpeech.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/NetworkTransformSyncronizer.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/LobbyManager.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseGameMenuPlayers.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/Interactable.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseGameMenu.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/Pickable.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/ToggleGameMenu.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIGameMenuPlayers.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIProgressBarVOIPRMS.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenGameMenuPlayers.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIOptionButtonMaxPlayer.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/SceneLoader.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButton.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCreateLobby.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/WorldInteractor.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/ResourceLinker.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/SimpleResourceLoader.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILoadingScreen.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UINotifications.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/PlaySountrackOnStartup.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/HideIfHasOwnership.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/AudioManager.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/SteamConnect.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILabel3DSteamName.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILabelWorldInteractorHover.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIGameMenuPlayerEntry.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonDisconnect.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIConfirmationPrompt.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UISliderChangeBusVolume.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/PlayerMovement.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/InteractableCollider.cs
+res://addons/resource-id-dropdown-custom-inspector/ResourceIdEditorPlugin.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/ScaleOnRMS.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/Mutable.cs
+res://addons/pawn-custom-inspector/PawnEditorPlugin.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonQuit.cs
+res://addons/pawn-custom-inspector/PawnEditorInspectorPlugin.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIFindLobbies.cs
+res://addons/resource-id-dropdown-custom-inspector/ResourceIdEditorInspectorPlugin.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCloseOptions.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenOptions.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonCreateLobbyAndEnterGame.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILobbyDescriptionPanel.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonToggleTestVOIP.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILabelGameVersion.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UILabelSteamConnection.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonFindLobbies.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonGoHome.cs
+res://Overfort Games SteamNetGodot/Scripts/Core/Pawn.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/ShowHideWithVOIP.cs
+res://Overfort Games SteamNetGodot/Scripts/Gameplay/VOIP.cs
+res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenBanList.cs
+res://Overfort Games SteamNetGodot/Scenes/Menu/game_version.res
+res://Overfort Games SteamNetGodot/Prefabs/UI/SteamNetGodot.theme
+res://Overfort Games SteamNetGodot/Prefabs/UI/Loading Screen.res

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://im8qjw3xqr53"
+path="res://.godot/imported/medieval-background-196571.mp3-2797ea9b83f1db51afd2419f73ab326d.mp3str"
+
+[deps]
+
+source_file="res://Overfort Games SteamNetGodot/Audio/medieval-background-196571.mp3"
+dest_files=["res://.godot/imported/medieval-background-196571.mp3-2797ea9b83f1db51afd2419f73ab326d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

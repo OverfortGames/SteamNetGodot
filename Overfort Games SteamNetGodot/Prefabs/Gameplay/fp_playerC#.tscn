@@ -1,0 +1,69 @@
+[gd_scene load_steps=7 format=3 uid="uid://bf35ywycmw0ul"]
+
+[ext_resource type="Script" path="res://Overfort Games SteamNetGodot/Scripts/Gameplay/PlayerMovement.cs" id="1_tmhbo"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_4vvo2"]
+radius = 0.3
+height = 1.75
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_wrpkp"]
+points = PackedVector3Array(0.298118, 0.559565, -0.0325898, -0.29037, -0.617422, -0.0587508, -0.268213, -0.677982, -0.085681, 0.119603, -0.608331, 0.271723, -0.212945, 0.694007, 0.172658, 0.0693717, -0.612715, -0.288114, -0.135397, 0.615148, -0.263594, 0.122535, 0.728073, 0.226574, 0.253422, -0.730585, -0.033572, -0.159286, -0.633937, 0.246452, 0.147694, 0.723815, -0.214171, -0.0325898, 0.559565, 0.298118, -0.268213, 0.677982, -0.085681, -0.0875795, -0.851855, 0.0720806, 0.26467, -0.518301, 0.141253, 0.239922, -0.542711, -0.179482, -0.183418, -0.604614, -0.233796, -0.0878975, 0.854762, -0.0611966, -0.284295, -0.579641, 0.0937364, 0.194902, 0.631114, 0.220141, 0.144435, 0.6061, -0.259636, -0.060253, -0.816284, -0.165606, 0.202953, 0.789539, 0.0450233, -0.284299, 0.579649, 0.0937375, -0.206277, 0.573209, 0.217388, 0.298118, -0.559565, -0.0325898, 0.097482, -0.814463, 0.150011, -0.255708, 0.54739, -0.1562, -0.0587508, 0.617422, -0.29037, 0.268764, 0.576595, -0.132286, 0.271723, 0.608331, 0.119603, -0.0325898, -0.559565, 0.298118)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_eubrl"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_ts3my"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_25r7k"]
+albedo_color = Color(0, 0, 0, 1)
+
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("head")]
+script = ExtResource("1_tmhbo")
+WALK_SPEED = 2.0
+SPRINT_SPEED = 4.0
+JUMP_VELOCITY = 4.5
+SENSITIVITY = 0.001
+BOB_FREQ = 2.0
+BOB_AMP = 0.03
+BASE_FOV = 70.0
+head = NodePath("Head")
+
+[node name="Bean" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.88, 0)
+mesh = SubResource("CapsuleMesh_4vvo2")
+skeleton = NodePath("../..")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.88, 0)
+shape = SubResource("ConvexPolygonShape3D_wrpkp")
+
+[node name="Head" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.55, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Head"]
+fov = 70.0
+near = 0.01
+far = 1000.0
+
+[node name="Right Eye" type="MeshInstance3D" parent="Head"]
+transform = Transform3D(0.27, 0, 0, 0, 0.27, 0, 0, 0, 0.27, 0.125, -0.139, -0.256)
+material_override = SubResource("StandardMaterial3D_eubrl")
+mesh = SubResource("SphereMesh_ts3my")
+skeleton = NodePath("../Camera3D")
+
+[node name="Right Eye - Pupil" type="MeshInstance3D" parent="Head/Right Eye"]
+transform = Transform3D(0.462963, 0, 0, 0, 0.462963, 0, 0, 0, 0.462963, 0, 0, -0.332984)
+material_override = SubResource("StandardMaterial3D_25r7k")
+mesh = SubResource("SphereMesh_ts3my")
+skeleton = NodePath("../../Camera3D")
+
+[node name="Left Eye" type="MeshInstance3D" parent="Head"]
+transform = Transform3D(0.27, 0, 0, 0, 0.27, 0, 0, 0, 0.27, -0.125, -0.139, -0.256)
+material_override = SubResource("StandardMaterial3D_eubrl")
+mesh = SubResource("SphereMesh_ts3my")
+skeleton = NodePath("../Camera3D")
+
+[node name="Left Eye - Pupil" type="MeshInstance3D" parent="Head/Left Eye"]
+transform = Transform3D(0.462963, 0, 0, 0, 0.462963, 0, 0, 0, 0.462963, 0, 0, -0.332984)
+material_override = SubResource("StandardMaterial3D_25r7k")
+mesh = SubResource("SphereMesh_ts3my")
+skeleton = NodePath("../../Camera3D")

@@ -1,0 +1,3 @@
+MIT
+
+https://github.com/Facepunch/Facepunch.Steamworks?tab=MIT-1-ov-file

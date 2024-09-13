@@ -1,0 +1,21 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="uid://c3ktrgvl7b70e"]
+
+[ext_resource type="Texture2D" uid="uid://vrtcv1ckbgac" path="res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_BaseColor.png" id="1_ybcdl"]
+[ext_resource type="Texture2D" uid="uid://cnjwmo4chp0lk" path="res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Roughness.png" id="2_mmrkh"]
+[ext_resource type="Texture2D" uid="uid://dpd3ml82s7exi" path="res://Overfort Games SteamNetGodot/3D/AssetsWIP/Assets_Plank01_Normal.png" id="3_4ve4n"]
+
+
+[resource]
+resource_name = "Planks01"
+cull_mode = 2
+albedo_color = Color(0.589903, 0.589903, 0.589903, 1)
+albedo_texture = ExtResource("1_ybcdl")
+metallic_texture = ExtResource("2_mmrkh")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("2_mmrkh")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_texture = ExtResource("3_4ve4n")
+uv1_scale = Vector3(1, 1, 2)
+uv1_offset = Vector3(0, 0.5, 0)
+uv1_triplanar = true

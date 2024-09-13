@@ -1,0 +1,3 @@
+MIT
+
+https://github.com/passivestar/godot-minimal-theme?tab=MIT-1-ov-file

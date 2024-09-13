@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3oedwojqjjlk"]
+
+[ext_resource type="Texture2D" uid="uid://jdlvxbh7b8nu" path="res://Overfort Games SteamNetGodot/Sprites/pointer.png" id="1_haqtp"]
+
+
+[node name="UI" type="CanvasLayer"]
+
+[node name="Pointer" type="TextureRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -4.0
+offset_top = -4.0
+offset_right = 4.0
+offset_bottom = 4.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture = ExtResource("1_haqtp")
+expand_mode = 1
