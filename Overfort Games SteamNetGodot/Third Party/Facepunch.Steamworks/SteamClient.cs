@@ -143,19 +143,33 @@ namespace Steamworks
 		/// </summary>
 		public static bool IsLoggedOn => SteamUser.Internal.BLoggedOn();
 
-		/// <summary>
-		/// Gets the Steam ID of the account currently logged into the Steam client. This is 
-		/// commonly called the 'current user', or 'local user'.
-		/// A Steam ID is a unique identifier for a Steam accounts, Steam groups, Lobbies and Chat 
-		/// rooms, and used to differentiate users in all parts of the Steamworks API.
-		/// </summary>
-		public static SteamId SteamId => SteamUser.Internal.GetSteamID();
+        /// <summary>
+        /// Gets the Steam ID of the account currently logged into the Steam client. This is 
+        /// commonly called the 'current user', or 'local user'.
+        /// A Steam ID is a unique identifier for a Steam accounts, Steam groups, Lobbies and Chat 
+        /// rooms, and used to differentiate users in all parts of the Steamworks API.
+        /// </summary>
+        private static bool _steamIdIsCached;
+        private static SteamId _steamIdCache;
+        public static SteamId SteamId
+        {
+            get
+            {
+                if (_steamIdIsCached == false)
+                {
+                    _steamIdIsCached = true;
+                    _steamIdCache = SteamUser.Internal.GetSteamID();
+                }
 
-		/// <summary>
-		/// returns the local players name - guaranteed to not be <see langword="null"/>.
-		/// This is the same name as on the user's community profile page.
-		/// </summary>
-		public static string Name => SteamFriends.Internal.GetPersonaName();
+                return _steamIdCache;
+            }
+        }
+
+        /// <summary>
+        /// returns the local players name - guaranteed to not be <see langword="null"/>.
+        /// This is the same name as on the user's community profile page.
+        /// </summary>
+        public static string Name => SteamFriends.Internal.GetPersonaName();
 
 		/// <summary>
 		/// Gets the status of the current user.

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "B:\\Godot Projects\\SteamNetGodot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E41C7925-B5B4-4D6A-89DB-1197700CC79A}|SteamNetGodot.csproj|b:\\godot projects\\steamnetgodot\\overfort games steamnetgodot\\third party\\facepunch.steamworks\\steamclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41C7925-B5B4-4D6A-89DB-1197700CC79A}|SteamNetGodot.csproj|solutionrelative:overfort games steamnetgodot\\third party\\facepunch.steamworks\\steamclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E41C7925-B5B4-4D6A-89DB-1197700CC79A}|SteamNetGodot.csproj|b:\\godot projects\\steamnetgodot\\overfort games steamnetgodot\\scripts\\ui\\uibuttonfindlobbies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E41C7925-B5B4-4D6A-89DB-1197700CC79A}|SteamNetGodot.csproj|solutionrelative:overfort games steamnetgodot\\scripts\\ui\\uibuttonfindlobbies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SteamClient.cs",
+              "DocumentMoniker": "B:\\Godot Projects\\SteamNetGodot\\Overfort Games SteamNetGodot\\Third Party\\Facepunch.Steamworks\\SteamClient.cs",
+              "RelativeDocumentMoniker": "Overfort Games SteamNetGodot\\Third Party\\Facepunch.Steamworks\\SteamClient.cs",
+              "ToolTip": "B:\\Godot Projects\\SteamNetGodot\\Overfort Games SteamNetGodot\\Third Party\\Facepunch.Steamworks\\SteamClient.cs",
+              "RelativeToolTip": "Overfort Games SteamNetGodot\\Third Party\\Facepunch.Steamworks\\SteamClient.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAADwv6YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:31:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UIButtonFindLobbies.cs",
               "DocumentMoniker": "B:\\Godot Projects\\SteamNetGodot\\Overfort Games SteamNetGodot\\Scripts\\UI\\UIButtonFindLobbies.cs",
               "RelativeDocumentMoniker": "Overfort Games SteamNetGodot\\Scripts\\UI\\UIButtonFindLobbies.cs",
               "ToolTip": "B:\\Godot Projects\\SteamNetGodot\\Overfort Games SteamNetGodot\\Scripts\\UI\\UIButtonFindLobbies.cs",
               "RelativeToolTip": "Overfort Games SteamNetGodot\\Scripts\\UI\\UIButtonFindLobbies.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T11:21:01.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "B:\\Godot Projects\\SteamNetGodot\\Overfort Games SteamNetGodot\\Scripts\\Gameplay\\AudioManager.cs",
               "RelativeDocumentMoniker": "Overfort Games SteamNetGodot\\Scripts\\Gameplay\\AudioManager.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Overfort Games SteamNetGodot\\Scripts\\Gameplay\\AudioManager.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAtwBcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:29:13.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T17:29:13.638Z"
             }
           ]
         }

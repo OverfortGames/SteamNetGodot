@@ -1,6 +1,6 @@
 is_global = true
 build_property.GodotDisabledSourceGenerators = 
-build_property.GodotProjectDir = B:\GODOT PROJECTS\STEAMNETGODOT\
+build_property.GodotProjectDir = B:\Godot Projects\SteamNetGodot\
 build_property.GodotProjectDirBase64 = 
 build_property.GodotSourceGenerators = 
 build_property.IsGodotToolsProject = 
@@ -13,6 +13,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SteamNetGodot
-build_property.ProjectDir = B:\GODOT PROJECTS\STEAMNETGODOT\
+build_property.ProjectDir = B:\Godot Projects\SteamNetGodot\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
