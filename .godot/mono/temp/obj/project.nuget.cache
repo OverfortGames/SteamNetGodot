@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "iCbr4QQYbXEd78VybT5UjmHZ0eS3kQmZf2WXncOLMxDCxHLbsPxSej3rsrJCaGioiAkbjUNI2qWqcVBlQhC8AA==",
+  "dgSpecHash": "PJ/nBmWDHvP8XM7mr+f6rFepPWtACds1IVHbDwOitrZdjal905gvw7+jw+0sOw+RzSDcidONtykQyA8qr/Fl2g==",
   "success": true,
-  "projectFilePath": "B:\\Godot Projects\\Taverns\\Taverns.csproj",
+  "projectFilePath": "B:\\Godot Projects\\SteamNetGodot\\SteamNetGodot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piace\\.nuget\\packages\\godot.sourcegenerators\\4.3.1-rc\\godot.sourcegenerators.4.3.1-rc.nupkg.sha512",
     "C:\\Users\\piace\\.nuget\\packages\\godotsharp\\4.3.1-rc\\godotsharp.4.3.1-rc.nupkg.sha512",
-    "C:\\Users\\piace\\.nuget\\packages\\godotsharpeditor\\4.3.1-rc\\godotsharpeditor.4.3.1-rc.nupkg.sha512",
-    "C:\\Users\\piace\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\piace\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\piace\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\piace\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.27\\microsoft.netcore.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\piace\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\piace\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.27\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\piace\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\piace\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.27\\microsoft.aspnetcore.app.runtime.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

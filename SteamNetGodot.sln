@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taverns", "Taverns.csproj", "{E41C7925-B5B4-4D6A-89DB-1197700CC79A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamNetGodot", "SteamNetGodot.csproj", "{E41C7925-B5B4-4D6A-89DB-1197700CC79A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

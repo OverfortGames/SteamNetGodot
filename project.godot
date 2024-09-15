@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Taverna"
+config/name="SteamNetGodot"
+config/description="https://github.com/OverfortGames/SteamNetGodot"
 run/main_scene="res://Overfort Games SteamNetGodot/Scenes/Core/initializer.tscn"
 config/features=PackedStringArray("4.3", "C#", "Forward Plus")
 run/max_fps=144
@@ -30,7 +31,7 @@ window/stretch/aspect="expand"
 
 [dotnet]
 
-project/assembly_name="Taverns"
+project/assembly_name="SteamNetGodot"
 
 [editor_plugins]
 

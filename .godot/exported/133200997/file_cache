@@ -1,19 +1,10 @@
-res://Prefabs/chair_01.tscn::6b02ea70f2783c9caa7959eeec3632fe::1717699749::res://.godot/exported/133200997/export-0a0fd56eeb17a0f16ed157d6c064fa10-chair_01.scn
-res://Prefabs/fp_player.tscn::d6f62a995b794788b2f8929be637d7f6::1725178560::res://.godot/exported/133200997/export-b3823e4c3fb69090e02bab672586e0d9-fp_player.scn
-res://Prefabs/table_01.tscn::38e14398cfef0e4539bbf61ab15bd1aa::1719525846::res://.godot/exported/133200997/export-7634c73ec3872ea6c0b9fd080aed600b-table_01.scn
 res://checkbox_pressed_color.tres::557cd0674898614098321bac51f1baf1::1719615310::res://.godot/exported/133200997/export-a99025bc08197a21913c4eba1cc56ec3-checkbox_pressed_color.res
-res://3rd Party/editor_theme.tres::fd6bb5a4bde44c5b474e0da8ed504b33::1723996725::res://.godot/exported/133200997/export-30da9fade0e90d64111daeb18b486c24-editor_theme.res
 res://Overfort Games SteamNetGodot/Prefabs/Gameplay/fp_playerC#.tscn::486ad5945cdfdc1917187ea42d4cbfe9::1725200776::res://.godot/exported/133200997/export-490c5e1bd044fe3e97c812a395bd3ee1-fp_playerC#.scn
-res://Overfort Games SteamNetGodot/Prefabs/UI/button_join_lobby.tscn::d910ed648f9461e39330c7b4961dbee2::1721777265::res://.godot/exported/133200997/export-a1850bea3fc3e01bb0d7370ca575a487-button_join_lobby.scn
-res://Overfort Games SteamNetGodot/Prefabs/crosshair.tscn::c5735418102abf707c9ee965014758b8::1725207779::res://.godot/exported/133200997/export-8decc087579c8f385a8d5f2f4f56cf68-crosshair.scn
-res://Overfort Games SteamNetGodot/Scenes/Core/initializer.tscn::f7d007cf1e4c35c626731c72298af952::1726176170::res://.godot/exported/133200997/export-191d0254d49d00e309d4488023dad9b9-initializer.scn
-res://Overfort Games SteamNetGodot/Scenes/Game/multiplayer_demo.tscn::6ec7ebe973de800cca1d185e3a0c66e0::1726176294::res://.godot/exported/133200997/export-11705ae4d218664443f835ac83048c26-multiplayer_demo.scn
-res://Overfort Games SteamNetGodot/Scenes/Menu/splash_screen.tscn::e2b2bb105f7742aeb0ced2576a0507fe::1725207779::res://.godot/exported/133200997/export-9b5b29e5212b691a245baca1a5de23e2-splash_screen.scn
-res://Scenes/Tests/taverna_01_wall_material_override2.tres::c44c8feb70b6bdeb5c5be1d06f6a395b::1724603950::res://.godot/exported/133200997/export-c06697c68621ab85b56345185e977f7e-taverna_01_wall_material_override2.res
-res://Scenes/Tests/taverna_01_wall_material_override.tres::aa58c211b914e8fb9dd04f143a505f5a::1724603950::res://.godot/exported/133200997/export-74a82b0f2c680cfae1b7490b91e3086e-taverna_01_wall_material_override.res
-res://Scenes/Tests/tavern_01_blockout.tscn::94971bcd8893c88fac5732ce486797ed::1725366007::res://.godot/exported/133200997/export-6fc26c50b901961d2559ba3ce1b2743a-tavern_01_blockout.scn
-res://Scenes/Tests/tavern_01_physics.tscn::ab7b7b35c64e9cbe9af1c4b82fe5f7cc::1724603983::res://.godot/exported/133200997/export-d40c76523a6df24274704f0ddb358d42-tavern_01_physics.scn
-res://Trash/explosive.tscn::e542a70ff63356bf82d974682e3c2577::1724228144::res://.godot/exported/133200997/export-ba3e82d87da0ce5f3b601d2bf92762d2-explosive.scn
+res://Overfort Games SteamNetGodot/Prefabs/UI/button_join_lobby.tscn::d910ed648f9461e39330c7b4961dbee2::1726229104::res://.godot/exported/133200997/export-a1850bea3fc3e01bb0d7370ca575a487-button_join_lobby.scn
+res://Overfort Games SteamNetGodot/Scenes/Core/initializer.tscn::f7d007cf1e4c35c626731c72298af952::1726313182::res://.godot/exported/133200997/export-191d0254d49d00e309d4488023dad9b9-initializer.scn
+res://Overfort Games SteamNetGodot/Scenes/Game/multiplayer_demo.tscn::963114b409e863b6ad90ade3b37a7f03::1726313183::res://.godot/exported/133200997/export-11705ae4d218664443f835ac83048c26-multiplayer_demo.scn
+res://Overfort Games SteamNetGodot/Scenes/Menu/splash_screen.tscn::2ad5e1ea2fc50f14edab05600ffc9c45::1726313182::res://.godot/exported/133200997/export-9b5b29e5212b691a245baca1a5de23e2-splash_screen.scn
 res://default_bus_layout.tres::5effacaa392155ffb2ddeec53607be6f::1721811723::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
-res://Scenes/Tests/cameralookat.tscn::35e4cc627df814788596d80ee24c8050::1725366225::res://.godot/exported/133200997/export-9fafe42fbee0556278712043c9029a25-cameralookat.scn
-res://Trash/AssetsWIP/Planks01.tres::cc992535d91d9d258ef829cf17eaea07::1725814095::res://.godot/exported/133200997/export-5997c321e3d5823eefd4ba0456413b5e-Planks01.res
+res://Overfort Games SteamNetGodot/3D/AssetsWIP/Planks01.tres::348d785ea156ae1ac4adc6b9d53b9ec0::1726246080::res://.godot/exported/133200997/export-a2528324a3009bb0a4d96087f769773c-Planks01.res
+res://Overfort Games SteamNetGodot/Prefabs/UI/crosshair.tscn::6043dfc2c74999d15c5ca29d008df0de::1726246060::res://.godot/exported/133200997/export-afabbf5e62580b216c2903492411c4ee-crosshair.scn
+res://Overfort Games SteamNetGodot/Third Party/editor_theme.tres::fd6bb5a4bde44c5b474e0da8ed504b33::1723996725::res://.godot/exported/133200997/export-c7fd151ea2a5af93270519c6ac073e19-editor_theme.res

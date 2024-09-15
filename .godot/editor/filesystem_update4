@@ -1,11 +1,7 @@
+res://Overfort Games SteamNetGodot/Scenes/Game/multiplayer_demo.tscn
 res://Overfort Games SteamNetGodot/Scenes/Core/initializer.tscn
-res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS AudioUIClick.res
-res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS AudioSoundtrack1.res
 res://Overfort Games SteamNetGodot/Scenes/Menu/splash_screen.tscn
-res://Overfort Games SteamNetGodot/Scenes/Menu/home.res
-res://Overfort Games SteamNetGodot/Scenes/Menu/join_taverna.res
-res://Overfort Games SteamNetGodot/Scenes/Menu/game_menu.res
-res://Overfort Games SteamNetGodot/Prefabs/Resource Linkers/RS SplashScreen.res
+res://Overfort Games SteamNetGodot/Prefabs/UI/Loading Screen.res
 res://Overfort Games SteamNetGodot/Scripts/Core/NetworkManager.cs
 res://Overfort Games SteamNetGodot/Scripts/UI/UILabelToggleSpeech.cs
 res://Overfort Games SteamNetGodot/Scripts/Gameplay/NetworkTransformSyncronizer.cs
@@ -60,6 +56,3 @@ res://Overfort Games SteamNetGodot/Scripts/Core/Pawn.cs
 res://Overfort Games SteamNetGodot/Scripts/Gameplay/ShowHideWithVOIP.cs
 res://Overfort Games SteamNetGodot/Scripts/Gameplay/VOIP.cs
 res://Overfort Games SteamNetGodot/Scripts/UI/UIButtonOpenBanList.cs
-res://Overfort Games SteamNetGodot/Scenes/Menu/game_version.res
-res://Overfort Games SteamNetGodot/Prefabs/UI/SteamNetGodot.theme
-res://Overfort Games SteamNetGodot/Prefabs/UI/Loading Screen.res
