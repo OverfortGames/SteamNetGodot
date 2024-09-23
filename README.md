@@ -1,7 +1,7 @@
 
 # SteamNetGodot
 
-![](https://github.com/OverfortGames/SteamNetGodot/package7.gif)
+![](https://github.com/OverfortGames/SteamNetGodot/blob/main/package7.gif)
 
 ## Is this for me?
 
