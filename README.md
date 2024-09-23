@@ -1,7 +1,6 @@
 
 # SteamNetGodot
-
-![](https://github.com/OverfortGames/SteamNetGodot/blob/main/package7.gif)
+<img src="https://github.com/OverfortGames/SteamNetGodot/blob/main/package7.gif" width="600" height="360" />
 
 ## Is this for me?
 
