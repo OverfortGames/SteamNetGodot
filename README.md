@@ -1,6 +1,6 @@
 
 # SteamNetGodot
-<img src="https://github.com/OverfortGames/SteamNetGodot/blob/main/package7.gif" width="600" height="360" />
+<img src="https://github.com/OverfortGames/SteamNetGodot/blob/main/package8.gif" width="600" height="361" />
 
 ## Is this for me?
 
