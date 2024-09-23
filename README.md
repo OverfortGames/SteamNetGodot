@@ -4,11 +4,11 @@
 
 ## Is this for me?
 
-In it's core SteamNetGodot is the combination of [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) and [LiteNetLib](https://github.com/RevenantX/LiteNetLib). It's a performant C# Steam Networking library for Godot. 
+In it's core SteamNetGodot is the combination of [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) and [LiteNetLib](https://github.com/RevenantX/LiteNetLib). A performant, easy to use C# Steam Networking library for the wonderful Godot engine. 
 
 It will be regularly updated since it's currently in use on our game [Taverna](https://store.steampowered.com/app/3219160/Taverna).
 
-## Good
+## Goodies
 
 - Compressed Steam VOIP (3-5 KB/s)
 - Smart matchmaking through Steam Lobbies / internal logic
