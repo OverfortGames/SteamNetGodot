@@ -1,11 +1,13 @@
 
 # SteamNetGodot
 
+![](https://github.com/OverfortGames/SteamNetGodot/package7.gif)
+
 ## Is this for me?
 
 In it's core SteamNetGodot is the combination of [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) and [LiteNetLib](https://github.com/RevenantX/LiteNetLib). It's a performant C# Steam Networking library for Godot. 
 
- It will be regularly updated since it's currently in use on our game [Taverna](https://store.steampowered.com/app/3219160/Taverna).
+It will be regularly updated since it's currently in use on our game [Taverna](https://store.steampowered.com/app/3219160/Taverna).
 
 ## Good
 
