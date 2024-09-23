@@ -17,6 +17,7 @@ It will be regularly updated since it's currently in use on our game [Taverna](h
 - Very simple C# code
 - Bunch of cool networking code as example (replication, resource management, audio, kick, mute, ban...)
 - Open Source
+- Godot 4.3
 - MIT license
 
 ## Do Stuff!
