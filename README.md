@@ -11,7 +11,7 @@ It will be regularly updated since it's currently in use on our game [Taverna](h
 
 ## Goodies
 
-- Compressed Steam VOIP (3-5 KB/s)
+- Compressed Steam VoIP (3-5 KB/s)
 - Smart matchmaking through Steam Lobbies / internal logic
 - RPC system
 - Very simple C# code
