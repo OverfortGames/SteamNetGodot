@@ -104,7 +104,7 @@ Transform replication has little optimization. When moving between 15-20 KB/s 60
 
 overfortgames@gmail.com
 
-[Discord](https://discord.gg/a633uDr2)
+[Discord](https://discord.gg/hvPkJrqQRX)
 
 ## Q&A
 
